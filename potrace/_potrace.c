@@ -479,7 +479,7 @@ static const char *__pyx_f[] = {
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":725
  * # in Cython to enable them only on the right systems.
- * 
+ *
  * ctypedef npy_int8       int8_t             # <<<<<<<<<<<<<<
  * ctypedef npy_int16      int16_t
  * ctypedef npy_int32      int32_t
@@ -487,7 +487,7 @@ static const char *__pyx_f[] = {
 typedef npy_int8 __pyx_t_5numpy_int8_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":726
- * 
+ *
  * ctypedef npy_int8       int8_t
  * ctypedef npy_int16      int16_t             # <<<<<<<<<<<<<<
  * ctypedef npy_int32      int32_t
@@ -515,7 +515,7 @@ typedef npy_int64 __pyx_t_5numpy_int64_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":732
  * #ctypedef npy_int128     int128_t
- * 
+ *
  * ctypedef npy_uint8      uint8_t             # <<<<<<<<<<<<<<
  * ctypedef npy_uint16     uint16_t
  * ctypedef npy_uint32     uint32_t
@@ -523,7 +523,7 @@ typedef npy_int64 __pyx_t_5numpy_int64_t;
 typedef npy_uint8 __pyx_t_5numpy_uint8_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":733
- * 
+ *
  * ctypedef npy_uint8      uint8_t
  * ctypedef npy_uint16     uint16_t             # <<<<<<<<<<<<<<
  * ctypedef npy_uint32     uint32_t
@@ -551,7 +551,7 @@ typedef npy_uint64 __pyx_t_5numpy_uint64_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":739
  * #ctypedef npy_uint128    uint128_t
- * 
+ *
  * ctypedef npy_float32    float32_t             # <<<<<<<<<<<<<<
  * ctypedef npy_float64    float64_t
  * #ctypedef npy_float80    float80_t
@@ -559,7 +559,7 @@ typedef npy_uint64 __pyx_t_5numpy_uint64_t;
 typedef npy_float32 __pyx_t_5numpy_float32_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":740
- * 
+ *
  * ctypedef npy_float32    float32_t
  * ctypedef npy_float64    float64_t             # <<<<<<<<<<<<<<
  * #ctypedef npy_float80    float80_t
@@ -581,7 +581,7 @@ typedef npy_long __pyx_t_5numpy_int_t;
  * ctypedef npy_long       int_t
  * ctypedef npy_longlong   long_t             # <<<<<<<<<<<<<<
  * ctypedef npy_longlong   longlong_t
- * 
+ *
  */
 typedef npy_longlong __pyx_t_5numpy_long_t;
 
@@ -589,14 +589,14 @@ typedef npy_longlong __pyx_t_5numpy_long_t;
  * ctypedef npy_long       int_t
  * ctypedef npy_longlong   long_t
  * ctypedef npy_longlong   longlong_t             # <<<<<<<<<<<<<<
- * 
+ *
  * ctypedef npy_ulong      uint_t
  */
 typedef npy_longlong __pyx_t_5numpy_longlong_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":753
  * ctypedef npy_longlong   longlong_t
- * 
+ *
  * ctypedef npy_ulong      uint_t             # <<<<<<<<<<<<<<
  * ctypedef npy_ulonglong  ulong_t
  * ctypedef npy_ulonglong  ulonglong_t
@@ -604,11 +604,11 @@ typedef npy_longlong __pyx_t_5numpy_longlong_t;
 typedef npy_ulong __pyx_t_5numpy_uint_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":754
- * 
+ *
  * ctypedef npy_ulong      uint_t
  * ctypedef npy_ulonglong  ulong_t             # <<<<<<<<<<<<<<
  * ctypedef npy_ulonglong  ulonglong_t
- * 
+ *
  */
 typedef npy_ulonglong __pyx_t_5numpy_ulong_t;
 
@@ -616,32 +616,32 @@ typedef npy_ulonglong __pyx_t_5numpy_ulong_t;
  * ctypedef npy_ulong      uint_t
  * ctypedef npy_ulonglong  ulong_t
  * ctypedef npy_ulonglong  ulonglong_t             # <<<<<<<<<<<<<<
- * 
+ *
  * ctypedef npy_intp       intp_t
  */
 typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":757
  * ctypedef npy_ulonglong  ulonglong_t
- * 
+ *
  * ctypedef npy_intp       intp_t             # <<<<<<<<<<<<<<
  * ctypedef npy_uintp      uintp_t
- * 
+ *
  */
 typedef npy_intp __pyx_t_5numpy_intp_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":758
- * 
+ *
  * ctypedef npy_intp       intp_t
  * ctypedef npy_uintp      uintp_t             # <<<<<<<<<<<<<<
- * 
+ *
  * ctypedef npy_double     float_t
  */
 typedef npy_uintp __pyx_t_5numpy_uintp_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":760
  * ctypedef npy_uintp      uintp_t
- * 
+ *
  * ctypedef npy_double     float_t             # <<<<<<<<<<<<<<
  * ctypedef npy_double     double_t
  * ctypedef npy_longdouble longdouble_t
@@ -649,11 +649,11 @@ typedef npy_uintp __pyx_t_5numpy_uintp_t;
 typedef npy_double __pyx_t_5numpy_float_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":761
- * 
+ *
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t             # <<<<<<<<<<<<<<
  * ctypedef npy_longdouble longdouble_t
- * 
+ *
  */
 typedef npy_double __pyx_t_5numpy_double_t;
 
@@ -661,7 +661,7 @@ typedef npy_double __pyx_t_5numpy_double_t;
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t
  * ctypedef npy_longdouble longdouble_t             # <<<<<<<<<<<<<<
- * 
+ *
  * ctypedef npy_cfloat      cfloat_t
  */
 typedef npy_longdouble __pyx_t_5numpy_longdouble_t;
@@ -697,7 +697,7 @@ struct __pyx_obj_7potrace_8_potrace_Path;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":764
  * ctypedef npy_longdouble longdouble_t
- * 
+ *
  * ctypedef npy_cfloat      cfloat_t             # <<<<<<<<<<<<<<
  * ctypedef npy_cdouble     cdouble_t
  * ctypedef npy_clongdouble clongdouble_t
@@ -705,11 +705,11 @@ struct __pyx_obj_7potrace_8_potrace_Path;
 typedef npy_cfloat __pyx_t_5numpy_cfloat_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":765
- * 
+ *
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t             # <<<<<<<<<<<<<<
  * ctypedef npy_clongdouble clongdouble_t
- * 
+ *
  */
 typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
 
@@ -717,24 +717,24 @@ typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t
  * ctypedef npy_clongdouble clongdouble_t             # <<<<<<<<<<<<<<
- * 
+ *
  * ctypedef npy_cdouble     complex_t
  */
 typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":768
  * ctypedef npy_clongdouble clongdouble_t
- * 
+ *
  * ctypedef npy_cdouble     complex_t             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object PyArray_MultiIterNew1(a):
  */
 typedef npy_cdouble __pyx_t_5numpy_complex_t;
 struct __pyx_opt_args_7potrace_6bezier_bezier;
 
 /* "potrace/bezier.pxd":4
- * 
- * 
+ *
+ *
  * cdef np.ndarray bezier(np.ndarray p, int steps=?)             # <<<<<<<<<<<<<<
  * cdef np.ndarray adaptive_bezier(np.ndarray p)
  */
@@ -744,8 +744,8 @@ struct __pyx_opt_args_7potrace_6bezier_bezier {
 };
 
 /* "potrace/_potrace.pyx":27
- * 
- * 
+ *
+ *
  * cdef class Bitmap:             # <<<<<<<<<<<<<<
  *     """
  *     Create a Bitmap instance.
@@ -759,8 +759,8 @@ struct __pyx_obj_7potrace_8_potrace_Bitmap {
 
 
 /* "potrace/_potrace.pyx":136
- * 
- * 
+ *
+ *
  * cdef class Parameters:             # <<<<<<<<<<<<<<
  *     """
  *     Stores parameters for the potrace_trace function.
@@ -772,8 +772,8 @@ struct __pyx_obj_7potrace_8_potrace_Parameters {
 
 
 /* "potrace/_potrace.pyx":157
- * 
- * 
+ *
+ *
  * cdef class State:             # <<<<<<<<<<<<<<
  *     """
  *     Stores a potrace state struct.
@@ -785,8 +785,8 @@ struct __pyx_obj_7potrace_8_potrace_State {
 
 
 /* "potrace/_potrace.pyx":196
- * 
- * 
+ *
+ *
  * cdef class BezierSegment:             # <<<<<<<<<<<<<<
  *     """
  *     Represents a Bezier segment in a :class:`Curve` object.
@@ -801,8 +801,8 @@ struct __pyx_obj_7potrace_8_potrace_BezierSegment {
 
 
 /* "potrace/_potrace.pyx":215
- * 
- * 
+ *
+ *
  * cdef class CornerSegment:             # <<<<<<<<<<<<<<
  *     """
  *     Represents a corner segment in a :class:`Curve` object.
@@ -816,8 +816,8 @@ struct __pyx_obj_7potrace_8_potrace_CornerSegment {
 
 
 /* "potrace/_potrace.pyx":232
- * 
- * 
+ *
+ *
  * cdef class Curve:             # <<<<<<<<<<<<<<
  *     """
  *     Curve objects represent closed, non intersecting curves.
@@ -831,8 +831,8 @@ struct __pyx_obj_7potrace_8_potrace_Curve {
 
 
 /* "potrace/_potrace.pyx":314
- * 
- * 
+ *
+ *
  * cdef class Path:             # <<<<<<<<<<<<<<
  *     """
  *     Path objects store a list of :class:`Curve` objects.
@@ -847,8 +847,8 @@ struct __pyx_obj_7potrace_8_potrace_Path {
 
 
 /* "potrace/_potrace.pyx":27
- * 
- * 
+ *
+ *
  * cdef class Bitmap:             # <<<<<<<<<<<<<<
  *     """
  *     Create a Bitmap instance.
@@ -861,8 +861,8 @@ static struct __pyx_vtabstruct_7potrace_8_potrace_Bitmap *__pyx_vtabptr_7potrace
 
 
 /* "potrace/_potrace.pyx":232
- * 
- * 
+ *
+ *
  * cdef class Curve:             # <<<<<<<<<<<<<<
  *     """
  *     Curve objects represent closed, non intersecting curves.
@@ -876,8 +876,8 @@ static struct __pyx_vtabstruct_7potrace_8_potrace_Curve *__pyx_vtabptr_7potrace_
 
 
 /* "potrace/_potrace.pyx":314
- * 
- * 
+ *
+ *
  * cdef class Path:             # <<<<<<<<<<<<<<
  *     """
  *     Path objects store a list of :class:`Curve` objects.
@@ -1258,7 +1258,7 @@ static int __Pyx_check_binary_version(void);
 
 #if !defined(__Pyx_PyIdentifier_FromString)
 #if PY_MAJOR_VERSION < 3
-  #define __Pyx_PyIdentifier_FromString(s) PyString_FromString(s)
+  #define __Pyx_PyIdentifier_FromString(s) PyUnicode_FromString(s)
 #else
   #define __Pyx_PyIdentifier_FromString(s) PyUnicode_FromString(s)
 #endif
@@ -1588,10 +1588,10 @@ static PyObject *__pyx_codeobj__29;
 
 /* "potrace/_potrace.pyx":38
  *     cdef potrace_bitmap_s po_bitmap
- * 
+ *
  *     def __init__(self, data):             # <<<<<<<<<<<<<<
  *         self.data = data
- * 
+ *
  */
 
 /* Python wrapper */
@@ -1655,20 +1655,20 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap___init__(struct __pyx_obj_7potrac
   __Pyx_RefNannySetupContext("__init__", 0);
 
   /* "potrace/_potrace.pyx":39
- * 
+ *
  *     def __init__(self, data):
  *         self.data = data             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __cinit__(self):
  */
   if (__Pyx_PyObject_SetAttrStr(((PyObject *)__pyx_v_self), __pyx_n_s_data, __pyx_v_data) < 0) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 39; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
 
   /* "potrace/_potrace.pyx":38
  *     cdef potrace_bitmap_s po_bitmap
- * 
+ *
  *     def __init__(self, data):             # <<<<<<<<<<<<<<
  *         self.data = data
- * 
+ *
  */
 
   /* function exit code */
@@ -1684,10 +1684,10 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap___init__(struct __pyx_obj_7potrac
 
 /* "potrace/_potrace.pyx":41
  *         self.data = data
- * 
+ *
  *     def __cinit__(self):             # <<<<<<<<<<<<<<
  *         self.po_bitmap.map = NULL
- * 
+ *
  */
 
 /* Python wrapper */
@@ -1712,20 +1712,20 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_2__cinit__(struct __pyx_obj_7potr
   __Pyx_RefNannySetupContext("__cinit__", 0);
 
   /* "potrace/_potrace.pyx":42
- * 
+ *
  *     def __cinit__(self):
  *         self.po_bitmap.map = NULL             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __dealloc__(self):
  */
   __pyx_v_self->po_bitmap.map = NULL;
 
   /* "potrace/_potrace.pyx":41
  *         self.data = data
- * 
+ *
  *     def __cinit__(self):             # <<<<<<<<<<<<<<
  *         self.po_bitmap.map = NULL
- * 
+ *
  */
 
   /* function exit code */
@@ -1736,10 +1736,10 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_2__cinit__(struct __pyx_obj_7potr
 
 /* "potrace/_potrace.pyx":44
  *         self.po_bitmap.map = NULL
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         self.free_bitmap()
- * 
+ *
  */
 
 /* Python wrapper */
@@ -1762,10 +1762,10 @@ static void __pyx_pf_7potrace_8_potrace_6Bitmap_4__dealloc__(struct __pyx_obj_7p
   __Pyx_RefNannySetupContext("__dealloc__", 0);
 
   /* "potrace/_potrace.pyx":45
- * 
+ *
  *     def __dealloc__(self):
  *         self.free_bitmap()             # <<<<<<<<<<<<<<
- * 
+ *
  *     def trace(self, turdsize=2, turnpolicy=POTRACE_TURNPOLICY_MINORITY,
  */
   __pyx_t_1 = ((struct __pyx_vtabstruct_7potrace_8_potrace_Bitmap *)__pyx_v_self->__pyx_vtab)->free_bitmap(__pyx_v_self); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 45; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -1774,10 +1774,10 @@ static void __pyx_pf_7potrace_8_potrace_6Bitmap_4__dealloc__(struct __pyx_obj_7p
 
   /* "potrace/_potrace.pyx":44
  *         self.po_bitmap.map = NULL
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         self.free_bitmap()
- * 
+ *
  */
 
   /* function exit code */
@@ -1791,7 +1791,7 @@ static void __pyx_pf_7potrace_8_potrace_6Bitmap_4__dealloc__(struct __pyx_obj_7p
 
 /* "potrace/_potrace.pyx":47
  *         self.free_bitmap()
- * 
+ *
  *     def trace(self, turdsize=2, turnpolicy=POTRACE_TURNPOLICY_MINORITY,             # <<<<<<<<<<<<<<
  *             alphamax=1.0, opticurve=1, opttolerance=0.2):
  *         """
@@ -1984,7 +1984,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_6trace(struct __pyx_obj_7po
  *         if not ret.ok:
  *             raise PotraceError("error tracing bitmap")             # <<<<<<<<<<<<<<
  *         return ret.image
- * 
+ *
  */
     __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_PotraceError); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 107; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
     __Pyx_GOTREF(__pyx_t_2);
@@ -2008,7 +2008,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_6trace(struct __pyx_obj_7po
  *         if not ret.ok:
  *             raise PotraceError("error tracing bitmap")
  *         return ret.image             # <<<<<<<<<<<<<<
- * 
+ *
  *     property data:
  */
   __Pyx_XDECREF(__pyx_r);
@@ -2020,7 +2020,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_6trace(struct __pyx_obj_7po
 
   /* "potrace/_potrace.pyx":47
  *         self.free_bitmap()
- * 
+ *
  *     def trace(self, turdsize=2, turnpolicy=POTRACE_TURNPOLICY_MINORITY,             # <<<<<<<<<<<<<<
  *             alphamax=1.0, opticurve=1, opttolerance=0.2):
  *         """
@@ -2041,11 +2041,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_6trace(struct __pyx_obj_7po
 }
 
 /* "potrace/_potrace.pyx":111
- * 
+ *
  *     property data:
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             return self._data
- * 
+ *
  */
 
 /* Python wrapper */
@@ -2070,7 +2070,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_4data___get__(struct __pyx_
  *     property data:
  *         def __get__(self):
  *             return self._data             # <<<<<<<<<<<<<<
- * 
+ *
  *         def __set__(self, np.ndarray value not None):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -2079,11 +2079,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_4data___get__(struct __pyx_
   goto __pyx_L0;
 
   /* "potrace/_potrace.pyx":111
- * 
+ *
  *     property data:
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             return self._data
- * 
+ *
  */
 
   /* function exit code */
@@ -2095,7 +2095,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_6Bitmap_4data___get__(struct __pyx_
 
 /* "potrace/_potrace.pyx":114
  *             return self._data
- * 
+ *
  *         def __set__(self, np.ndarray value not None):             # <<<<<<<<<<<<<<
  *             cdef int x, y
  *             self._data = value
@@ -2252,7 +2252,7 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_4data_2__set__(struct __pyx_obj_7
  *             for y in range(self.po_bitmap.h):
  *                 for x in range(self.po_bitmap.w):             # <<<<<<<<<<<<<<
  *                     setpixel(&self.po_bitmap, x, y, <bool>self._data[y, x])
- * 
+ *
  */
     __pyx_t_5 = __pyx_v_self->po_bitmap.w;
     for (__pyx_t_6 = 0; __pyx_t_6 < __pyx_t_5; __pyx_t_6+=1) {
@@ -2262,7 +2262,7 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_4data_2__set__(struct __pyx_obj_7
  *             for y in range(self.po_bitmap.h):
  *                 for x in range(self.po_bitmap.w):
  *                     setpixel(&self.po_bitmap, x, y, <bool>self._data[y, x])             # <<<<<<<<<<<<<<
- * 
+ *
  *     cdef free_bitmap(self):
  */
       __pyx_t_2 = __Pyx_PyInt_From_int(__pyx_v_y); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 129; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -2288,7 +2288,7 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_4data_2__set__(struct __pyx_obj_7
 
   /* "potrace/_potrace.pyx":114
  *             return self._data
- * 
+ *
  *         def __set__(self, np.ndarray value not None):             # <<<<<<<<<<<<<<
  *             cdef int x, y
  *             self._data = value
@@ -2310,7 +2310,7 @@ static int __pyx_pf_7potrace_8_potrace_6Bitmap_4data_2__set__(struct __pyx_obj_7
 
 /* "potrace/_potrace.pyx":131
  *                     setpixel(&self.po_bitmap, x, y, <bool>self._data[y, x])
- * 
+ *
  *     cdef free_bitmap(self):             # <<<<<<<<<<<<<<
  *         if self.po_bitmap.map != NULL:
  *             stdlib.free(self.po_bitmap.map)
@@ -2323,11 +2323,11 @@ static PyObject *__pyx_f_7potrace_8_potrace_6Bitmap_free_bitmap(struct __pyx_obj
   __Pyx_RefNannySetupContext("free_bitmap", 0);
 
   /* "potrace/_potrace.pyx":132
- * 
+ *
  *     cdef free_bitmap(self):
  *         if self.po_bitmap.map != NULL:             # <<<<<<<<<<<<<<
  *             stdlib.free(self.po_bitmap.map)
- * 
+ *
  */
   __pyx_t_1 = ((__pyx_v_self->po_bitmap.map != NULL) != 0);
   if (__pyx_t_1) {
@@ -2336,23 +2336,23 @@ static PyObject *__pyx_f_7potrace_8_potrace_6Bitmap_free_bitmap(struct __pyx_obj
  *     cdef free_bitmap(self):
  *         if self.po_bitmap.map != NULL:
  *             stdlib.free(self.po_bitmap.map)             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
     free(__pyx_v_self->po_bitmap.map);
 
     /* "potrace/_potrace.pyx":132
- * 
+ *
  *     cdef free_bitmap(self):
  *         if self.po_bitmap.map != NULL:             # <<<<<<<<<<<<<<
  *             stdlib.free(self.po_bitmap.map)
- * 
+ *
  */
   }
 
   /* "potrace/_potrace.pyx":131
  *                     setpixel(&self.po_bitmap, x, y, <bool>self._data[y, x])
- * 
+ *
  *     cdef free_bitmap(self):             # <<<<<<<<<<<<<<
  *         if self.po_bitmap.map != NULL:
  *             stdlib.free(self.po_bitmap.map)
@@ -2367,7 +2367,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_6Bitmap_free_bitmap(struct __pyx_obj
 
 /* "potrace/_potrace.pyx":143
  *     cdef potrace_param_s *po_params
- * 
+ *
  *     def __cinit__(self, int turdsize=2,             # <<<<<<<<<<<<<<
  *             int turnpolicy=POTRACE_TURNPOLICY_MINORITY, double alphamax=1.0,
  *             int opticurve=1, double opttolerance=0.2, *args, **kwargs):
@@ -2549,7 +2549,7 @@ static int __pyx_pf_7potrace_8_potrace_10Parameters___cinit__(struct __pyx_obj_7
  *         self.po_params.alphamax = alphamax
  *         self.po_params.opticurve = opticurve             # <<<<<<<<<<<<<<
  *         self.po_params.opttolerance = opttolerance
- * 
+ *
  */
   __pyx_v_self->po_params->opticurve = __pyx_v_opticurve;
 
@@ -2557,14 +2557,14 @@ static int __pyx_pf_7potrace_8_potrace_10Parameters___cinit__(struct __pyx_obj_7
  *         self.po_params.alphamax = alphamax
  *         self.po_params.opticurve = opticurve
  *         self.po_params.opttolerance = opttolerance             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __dealloc__(self):
  */
   __pyx_v_self->po_params->opttolerance = __pyx_v_opttolerance;
 
   /* "potrace/_potrace.pyx":143
  *     cdef potrace_param_s *po_params
- * 
+ *
  *     def __cinit__(self, int turdsize=2,             # <<<<<<<<<<<<<<
  *             int turnpolicy=POTRACE_TURNPOLICY_MINORITY, double alphamax=1.0,
  *             int opticurve=1, double opttolerance=0.2, *args, **kwargs):
@@ -2578,10 +2578,10 @@ static int __pyx_pf_7potrace_8_potrace_10Parameters___cinit__(struct __pyx_obj_7
 
 /* "potrace/_potrace.pyx":153
  *         self.po_params.opttolerance = opttolerance
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         potrace_param_free(self.po_params)
- * 
+ *
  */
 
 /* Python wrapper */
@@ -2600,20 +2600,20 @@ static void __pyx_pf_7potrace_8_potrace_10Parameters_2__dealloc__(struct __pyx_o
   __Pyx_RefNannySetupContext("__dealloc__", 0);
 
   /* "potrace/_potrace.pyx":154
- * 
+ *
  *     def __dealloc__(self):
  *         potrace_param_free(self.po_params)             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   potrace_param_free(__pyx_v_self->po_params);
 
   /* "potrace/_potrace.pyx":153
  *         self.po_params.opttolerance = opttolerance
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         potrace_param_free(self.po_params)
- * 
+ *
  */
 
   /* function exit code */
@@ -2622,10 +2622,10 @@ static void __pyx_pf_7potrace_8_potrace_10Parameters_2__dealloc__(struct __pyx_o
 
 /* "potrace/_potrace.pyx":166
  *     cdef potrace_state_s *po_state
- * 
+ *
  *     def __cinit__(self):             # <<<<<<<<<<<<<<
  *         self.po_state = NULL
- * 
+ *
  */
 
 /* Python wrapper */
@@ -2650,20 +2650,20 @@ static int __pyx_pf_7potrace_8_potrace_5State___cinit__(struct __pyx_obj_7potrac
   __Pyx_RefNannySetupContext("__cinit__", 0);
 
   /* "potrace/_potrace.pyx":167
- * 
+ *
  *     def __cinit__(self):
  *         self.po_state = NULL             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __dealloc__(self):
  */
   __pyx_v_self->po_state = NULL;
 
   /* "potrace/_potrace.pyx":166
  *     cdef potrace_state_s *po_state
- * 
+ *
  *     def __cinit__(self):             # <<<<<<<<<<<<<<
  *         self.po_state = NULL
- * 
+ *
  */
 
   /* function exit code */
@@ -2674,7 +2674,7 @@ static int __pyx_pf_7potrace_8_potrace_5State___cinit__(struct __pyx_obj_7potrac
 
 /* "potrace/_potrace.pyx":169
  *         self.po_state = NULL
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         if self.po_state != NULL:
  *             potrace_state_free(self.po_state)
@@ -2697,11 +2697,11 @@ static void __pyx_pf_7potrace_8_potrace_5State_2__dealloc__(struct __pyx_obj_7po
   __Pyx_RefNannySetupContext("__dealloc__", 0);
 
   /* "potrace/_potrace.pyx":170
- * 
+ *
  *     def __dealloc__(self):
  *         if self.po_state != NULL:             # <<<<<<<<<<<<<<
  *             potrace_state_free(self.po_state)
- * 
+ *
  */
   __pyx_t_1 = ((__pyx_v_self->po_state != NULL) != 0);
   if (__pyx_t_1) {
@@ -2710,23 +2710,23 @@ static void __pyx_pf_7potrace_8_potrace_5State_2__dealloc__(struct __pyx_obj_7po
  *     def __dealloc__(self):
  *         if self.po_state != NULL:
  *             potrace_state_free(self.po_state)             # <<<<<<<<<<<<<<
- * 
+ *
  *     property ok:
  */
     potrace_state_free(__pyx_v_self->po_state);
 
     /* "potrace/_potrace.pyx":170
- * 
+ *
  *     def __dealloc__(self):
  *         if self.po_state != NULL:             # <<<<<<<<<<<<<<
  *             potrace_state_free(self.po_state)
- * 
+ *
  */
   }
 
   /* "potrace/_potrace.pyx":169
  *         self.po_state = NULL
- * 
+ *
  *     def __dealloc__(self):             # <<<<<<<<<<<<<<
  *         if self.po_state != NULL:
  *             potrace_state_free(self.po_state)
@@ -2738,7 +2738,7 @@ static void __pyx_pf_7potrace_8_potrace_5State_2__dealloc__(struct __pyx_obj_7po
 
 /* "potrace/_potrace.pyx":179
  *         """
- * 
+ *
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             if self.po_state == NULL:
  *                 raise ValueError("can't query null state object")
@@ -2768,7 +2768,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
   __Pyx_RefNannySetupContext("__get__", 0);
 
   /* "potrace/_potrace.pyx":180
- * 
+ *
  *         def __get__(self):
  *             if self.po_state == NULL:             # <<<<<<<<<<<<<<
  *                 raise ValueError("can't query null state object")
@@ -2782,7 +2782,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
  *             if self.po_state == NULL:
  *                 raise ValueError("can't query null state object")             # <<<<<<<<<<<<<<
  *             return self.po_state.status == POTRACE_STATUS_OK
- * 
+ *
  */
     __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_ValueError, __pyx_tuple__4, NULL); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 181; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
     __Pyx_GOTREF(__pyx_t_2);
@@ -2791,7 +2791,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
     {__pyx_filename = __pyx_f[0]; __pyx_lineno = 181; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
 
     /* "potrace/_potrace.pyx":180
- * 
+ *
  *         def __get__(self):
  *             if self.po_state == NULL:             # <<<<<<<<<<<<<<
  *                 raise ValueError("can't query null state object")
@@ -2803,7 +2803,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
  *             if self.po_state == NULL:
  *                 raise ValueError("can't query null state object")
  *             return self.po_state.status == POTRACE_STATUS_OK             # <<<<<<<<<<<<<<
- * 
+ *
  *     property image:
  */
   __Pyx_XDECREF(__pyx_r);
@@ -2815,7 +2815,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
 
   /* "potrace/_potrace.pyx":179
  *         """
- * 
+ *
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             if self.po_state == NULL:
  *                 raise ValueError("can't query null state object")
@@ -2834,7 +2834,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_2ok___get__(struct __pyx_obj
 
 /* "potrace/_potrace.pyx":189
  *         """
- * 
+ *
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             if not self.ok:
  *                 raise ValueError("can't access the image property of "
@@ -2865,7 +2865,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_5image___get__(struct __pyx_
   __Pyx_RefNannySetupContext("__get__", 0);
 
   /* "potrace/_potrace.pyx":190
- * 
+ *
  *         def __get__(self):
  *             if not self.ok:             # <<<<<<<<<<<<<<
  *                 raise ValueError("can't access the image property of "
@@ -2892,7 +2892,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_5image___get__(struct __pyx_
     {__pyx_filename = __pyx_f[0]; __pyx_lineno = 191; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
 
     /* "potrace/_potrace.pyx":190
- * 
+ *
  *         def __get__(self):
  *             if not self.ok:             # <<<<<<<<<<<<<<
  *                 raise ValueError("can't access the image property of "
@@ -2904,8 +2904,8 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_5image___get__(struct __pyx_
  *                 raise ValueError("can't access the image property of "
  *                         "an incomplete trace state")
  *             return path_from_ptr(self.po_state.plist);             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __Pyx_XDECREF(__pyx_r);
   __pyx_t_1 = ((PyObject *)__pyx_f_7potrace_8_potrace_path_from_ptr(__pyx_v_self->po_state->plist)); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 193; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -2916,7 +2916,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_5image___get__(struct __pyx_
 
   /* "potrace/_potrace.pyx":189
  *         """
- * 
+ *
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             if not self.ok:
  *                 raise ValueError("can't access the image property of "
@@ -2935,7 +2935,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5State_5image___get__(struct __pyx_
 
 /* "potrace/_potrace.pyx":204
  *     cdef public bool is_corner
- * 
+ *
  *     def __init__(self, c1, c2, end_point):             # <<<<<<<<<<<<<<
  *         self.c1 = c1
  *         self.c2 = c2
@@ -3021,7 +3021,7 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment___init__(struct __pyx_obj
   __Pyx_RefNannySetupContext("__init__", 0);
 
   /* "potrace/_potrace.pyx":205
- * 
+ *
  *     def __init__(self, c1, c2, end_point):
  *         self.c1 = c1             # <<<<<<<<<<<<<<
  *         self.c2 = c2
@@ -3057,7 +3057,7 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment___init__(struct __pyx_obj
  *         self.c2 = c2
  *         self.end_point = end_point             # <<<<<<<<<<<<<<
  *         self.is_corner = False
- * 
+ *
  */
   if (!(likely(PyTuple_CheckExact(__pyx_v_end_point))||((__pyx_v_end_point) == Py_None)||(PyErr_Format(PyExc_TypeError, "Expected %.16s, got %.200s", "tuple", Py_TYPE(__pyx_v_end_point)->tp_name), 0))) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 207; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __pyx_t_1 = __pyx_v_end_point;
@@ -3072,14 +3072,14 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment___init__(struct __pyx_obj
  *         self.c2 = c2
  *         self.end_point = end_point
  *         self.is_corner = False             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __repr__(self):
  */
   __pyx_v_self->is_corner = 0;
 
   /* "potrace/_potrace.pyx":204
  *     cdef public bool is_corner
- * 
+ *
  *     def __init__(self, c1, c2, end_point):             # <<<<<<<<<<<<<<
  *         self.c1 = c1
  *         self.c2 = c2
@@ -3099,7 +3099,7 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment___init__(struct __pyx_obj
 
 /* "potrace/_potrace.pyx":210
  *         self.is_corner = False
- * 
+ *
  *     def __repr__(self):             # <<<<<<<<<<<<<<
  *         return "BezierSegment(c1=%s, c2=%s, end_point=%s)" % (self.c1,
  *                 self.c2, self.end_point)
@@ -3129,11 +3129,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13BezierSegment_2__repr__(struct __
   __Pyx_RefNannySetupContext("__repr__", 0);
 
   /* "potrace/_potrace.pyx":211
- * 
+ *
  *     def __repr__(self):
  *         return "BezierSegment(c1=%s, c2=%s, end_point=%s)" % (self.c1,             # <<<<<<<<<<<<<<
  *                 self.c2, self.end_point)
- * 
+ *
  */
   __Pyx_XDECREF(__pyx_r);
 
@@ -3141,8 +3141,8 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13BezierSegment_2__repr__(struct __
  *     def __repr__(self):
  *         return "BezierSegment(c1=%s, c2=%s, end_point=%s)" % (self.c1,
  *                 self.c2, self.end_point)             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __pyx_t_1 = PyTuple_New(3); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 211; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_1);
@@ -3157,11 +3157,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13BezierSegment_2__repr__(struct __
   PyTuple_SET_ITEM(__pyx_t_1, 2, __pyx_v_self->end_point);
 
   /* "potrace/_potrace.pyx":211
- * 
+ *
  *     def __repr__(self):
  *         return "BezierSegment(c1=%s, c2=%s, end_point=%s)" % (self.c1,             # <<<<<<<<<<<<<<
  *                 self.c2, self.end_point)
- * 
+ *
  */
   __pyx_t_2 = __Pyx_PyString_Format(__pyx_kp_s_BezierSegment_c1_s_c2_s_end_poin, __pyx_t_1); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 211; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -3172,7 +3172,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13BezierSegment_2__repr__(struct __
 
   /* "potrace/_potrace.pyx":210
  *         self.is_corner = False
- * 
+ *
  *     def __repr__(self):             # <<<<<<<<<<<<<<
  *         return "BezierSegment(c1=%s, c2=%s, end_point=%s)" % (self.c1,
  *                 self.c2, self.end_point)
@@ -3192,10 +3192,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13BezierSegment_2__repr__(struct __
 
 /* "potrace/_potrace.pyx":201
  *     """
- * 
+ *
  *     cdef public tuple c1, c2, end_point             # <<<<<<<<<<<<<<
  *     cdef public bool is_corner
- * 
+ *
  */
 
 /* Python wrapper */
@@ -3499,10 +3499,10 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment_9end_point_4__del__(struc
 }
 
 /* "potrace/_potrace.pyx":202
- * 
+ *
  *     cdef public tuple c1, c2, end_point
  *     cdef public bool is_corner             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __init__(self, c1, c2, end_point):
  */
 
@@ -3582,7 +3582,7 @@ static int __pyx_pf_7potrace_8_potrace_13BezierSegment_9is_corner_2__set__(struc
 
 /* "potrace/_potrace.pyx":223
  *     cdef public bool is_corner
- * 
+ *
  *     def __init__(self, c, end_point):             # <<<<<<<<<<<<<<
  *         self.c = c
  *         self.end_point = end_point
@@ -3659,7 +3659,7 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment___init__(struct __pyx_obj
   __Pyx_RefNannySetupContext("__init__", 0);
 
   /* "potrace/_potrace.pyx":224
- * 
+ *
  *     def __init__(self, c, end_point):
  *         self.c = c             # <<<<<<<<<<<<<<
  *         self.end_point = end_point
@@ -3679,7 +3679,7 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment___init__(struct __pyx_obj
  *         self.c = c
  *         self.end_point = end_point             # <<<<<<<<<<<<<<
  *         self.is_corner = True
- * 
+ *
  */
   if (!(likely(PyTuple_CheckExact(__pyx_v_end_point))||((__pyx_v_end_point) == Py_None)||(PyErr_Format(PyExc_TypeError, "Expected %.16s, got %.200s", "tuple", Py_TYPE(__pyx_v_end_point)->tp_name), 0))) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 225; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __pyx_t_1 = __pyx_v_end_point;
@@ -3694,14 +3694,14 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment___init__(struct __pyx_obj
  *         self.c = c
  *         self.end_point = end_point
  *         self.is_corner = True             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __repr__(self):
  */
   __pyx_v_self->is_corner = 1;
 
   /* "potrace/_potrace.pyx":223
  *     cdef public bool is_corner
- * 
+ *
  *     def __init__(self, c, end_point):             # <<<<<<<<<<<<<<
  *         self.c = c
  *         self.end_point = end_point
@@ -3721,10 +3721,10 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment___init__(struct __pyx_obj
 
 /* "potrace/_potrace.pyx":228
  *         self.is_corner = True
- * 
+ *
  *     def __repr__(self):             # <<<<<<<<<<<<<<
  *         return "CornerSegment(c=%s, end_point=%s)" % (self.c, self.end_point)
- * 
+ *
  */
 
 /* Python wrapper */
@@ -3751,11 +3751,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13CornerSegment_2__repr__(struct __
   __Pyx_RefNannySetupContext("__repr__", 0);
 
   /* "potrace/_potrace.pyx":229
- * 
+ *
  *     def __repr__(self):
  *         return "CornerSegment(c=%s, end_point=%s)" % (self.c, self.end_point)             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __Pyx_XDECREF(__pyx_r);
   __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 229; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -3775,10 +3775,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13CornerSegment_2__repr__(struct __
 
   /* "potrace/_potrace.pyx":228
  *         self.is_corner = True
- * 
+ *
  *     def __repr__(self):             # <<<<<<<<<<<<<<
  *         return "CornerSegment(c=%s, end_point=%s)" % (self.c, self.end_point)
- * 
+ *
  */
 
   /* function exit code */
@@ -3795,10 +3795,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_13CornerSegment_2__repr__(struct __
 
 /* "potrace/_potrace.pyx":220
  *     """
- * 
+ *
  *     cdef public tuple c, end_point             # <<<<<<<<<<<<<<
  *     cdef public bool is_corner
- * 
+ *
  */
 
 /* Python wrapper */
@@ -4002,10 +4002,10 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment_9end_point_4__del__(struc
 }
 
 /* "potrace/_potrace.pyx":221
- * 
+ *
  *     cdef public tuple c, end_point
  *     cdef public bool is_corner             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __init__(self, c, end_point):
  */
 
@@ -4085,7 +4085,7 @@ static int __pyx_pf_7potrace_8_potrace_13CornerSegment_9is_corner_2__set__(struc
 
 /* "potrace/_potrace.pyx":247
  *     adaptive = 1
- * 
+ *
  *     def __init__(self):             # <<<<<<<<<<<<<<
  *         self.segments = []
  *         self.children = []
@@ -4117,11 +4117,11 @@ static int __pyx_pf_7potrace_8_potrace_5Curve___init__(struct __pyx_obj_7potrace
   __Pyx_RefNannySetupContext("__init__", 0);
 
   /* "potrace/_potrace.pyx":248
- * 
+ *
  *     def __init__(self):
  *         self.segments = []             # <<<<<<<<<<<<<<
  *         self.children = []
- * 
+ *
  */
   __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 248; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_1);
@@ -4135,7 +4135,7 @@ static int __pyx_pf_7potrace_8_potrace_5Curve___init__(struct __pyx_obj_7potrace
  *     def __init__(self):
  *         self.segments = []
  *         self.children = []             # <<<<<<<<<<<<<<
- * 
+ *
  *     property start_point:
  */
   __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 249; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -4148,7 +4148,7 @@ static int __pyx_pf_7potrace_8_potrace_5Curve___init__(struct __pyx_obj_7potrace
 
   /* "potrace/_potrace.pyx":247
  *     adaptive = 1
- * 
+ *
  *     def __init__(self):             # <<<<<<<<<<<<<<
  *         self.segments = []
  *         self.children = []
@@ -4171,7 +4171,7 @@ static int __pyx_pf_7potrace_8_potrace_5Curve___init__(struct __pyx_obj_7potrace
  *         """
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             return self.segments[-1].end_point
- * 
+ *
  */
 
 /* Python wrapper */
@@ -4201,7 +4201,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_11start_point___get__(struct
  *         """
  *         def __get__(self):
  *             return self.segments[-1].end_point             # <<<<<<<<<<<<<<
- * 
+ *
  *     def tesselate(self, method=adaptive, res=30):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -4223,7 +4223,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_11start_point___get__(struct
  *         """
  *         def __get__(self):             # <<<<<<<<<<<<<<
  *             return self.segments[-1].end_point
- * 
+ *
  */
 
   /* function exit code */
@@ -4240,7 +4240,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_11start_point___get__(struct
 
 /* "potrace/_potrace.pyx":258
  *             return self.segments[-1].end_point
- * 
+ *
  *     def tesselate(self, method=adaptive, res=30):             # <<<<<<<<<<<<<<
  *         """
  *         Tesselate the curve.
@@ -4786,7 +4786,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_2tesselate(struct __pyx_obj_
  *             ret[cur_index:cur_index + num_verts] = seg
  *             cur_index += num_verts             # <<<<<<<<<<<<<<
  *         return ret
- * 
+ *
  */
     __pyx_t_2 = PyNumber_InPlaceAdd(__pyx_v_cur_index, __pyx_v_num_verts); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 298; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
     __Pyx_GOTREF(__pyx_t_2);
@@ -4807,7 +4807,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_2tesselate(struct __pyx_obj_
  *             ret[cur_index:cur_index + num_verts] = seg
  *             cur_index += num_verts
  *         return ret             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __iter__(self):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -4817,7 +4817,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_2tesselate(struct __pyx_obj_
 
   /* "potrace/_potrace.pyx":258
  *             return self.segments[-1].end_point
- * 
+ *
  *     def tesselate(self, method=adaptive, res=30):             # <<<<<<<<<<<<<<
  *         """
  *         Tesselate the curve.
@@ -4848,10 +4848,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_2tesselate(struct __pyx_obj_
 
 /* "potrace/_potrace.pyx":301
  *         return ret
- * 
+ *
  *     def __iter__(self):             # <<<<<<<<<<<<<<
  *         return iter(self.segments)
- * 
+ *
  */
 
 /* Python wrapper */
@@ -4878,10 +4878,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_4__iter__(struct __pyx_obj_7
   __Pyx_RefNannySetupContext("__iter__", 0);
 
   /* "potrace/_potrace.pyx":302
- * 
+ *
  *     def __iter__(self):
  *         return iter(self.segments)             # <<<<<<<<<<<<<<
- * 
+ *
  *     cdef append_bezier(self, potrace_dpoint_s *c1, potrace_dpoint_s *c2,
  */
   __Pyx_XDECREF(__pyx_r);
@@ -4896,10 +4896,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_4__iter__(struct __pyx_obj_7
 
   /* "potrace/_potrace.pyx":301
  *         return ret
- * 
+ *
  *     def __iter__(self):             # <<<<<<<<<<<<<<
  *         return iter(self.segments)
- * 
+ *
  */
 
   /* function exit code */
@@ -4916,7 +4916,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_5Curve_4__iter__(struct __pyx_obj_7
 
 /* "potrace/_potrace.pyx":304
  *         return iter(self.segments)
- * 
+ *
  *     cdef append_bezier(self, potrace_dpoint_s *c1, potrace_dpoint_s *c2,             # <<<<<<<<<<<<<<
  *             potrace_dpoint_s *end_point):
  *         self.segments.append(BezierSegment((c1.x, c1.y), (c2.x, c2.y),
@@ -4941,7 +4941,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_bezier(struct __pyx_ob
  *             potrace_dpoint_s *end_point):
  *         self.segments.append(BezierSegment((c1.x, c1.y), (c2.x, c2.y),             # <<<<<<<<<<<<<<
  *             (end_point.x, end_point.y)))
- * 
+ *
  */
   if (unlikely(__pyx_v_self->segments == Py_None)) {
     PyErr_Format(PyExc_AttributeError, "'NoneType' object has no attribute '%s'", "append");
@@ -4976,7 +4976,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_bezier(struct __pyx_ob
  *             potrace_dpoint_s *end_point):
  *         self.segments.append(BezierSegment((c1.x, c1.y), (c2.x, c2.y),
  *             (end_point.x, end_point.y)))             # <<<<<<<<<<<<<<
- * 
+ *
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):
  */
   __pyx_t_1 = PyFloat_FromDouble(__pyx_v_end_point->x); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 307; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -4997,7 +4997,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_bezier(struct __pyx_ob
  *             potrace_dpoint_s *end_point):
  *         self.segments.append(BezierSegment((c1.x, c1.y), (c2.x, c2.y),             # <<<<<<<<<<<<<<
  *             (end_point.x, end_point.y)))
- * 
+ *
  */
   __pyx_t_2 = PyTuple_New(3); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 306; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -5018,7 +5018,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_bezier(struct __pyx_ob
 
   /* "potrace/_potrace.pyx":304
  *         return iter(self.segments)
- * 
+ *
  *     cdef append_bezier(self, potrace_dpoint_s *c1, potrace_dpoint_s *c2,             # <<<<<<<<<<<<<<
  *             potrace_dpoint_s *end_point):
  *         self.segments.append(BezierSegment((c1.x, c1.y), (c2.x, c2.y),
@@ -5043,7 +5043,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_bezier(struct __pyx_ob
 
 /* "potrace/_potrace.pyx":309
  *             (end_point.x, end_point.y)))
- * 
+ *
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):             # <<<<<<<<<<<<<<
  *         self.segments.append(CornerSegment((c.x, c.y), (end_point.x,
  *             end_point.y)))
@@ -5063,11 +5063,11 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_corner(struct __pyx_ob
   __Pyx_RefNannySetupContext("append_corner", 0);
 
   /* "potrace/_potrace.pyx":310
- * 
+ *
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):
  *         self.segments.append(CornerSegment((c.x, c.y), (end_point.x,             # <<<<<<<<<<<<<<
  *             end_point.y)))
- * 
+ *
  */
   if (unlikely(__pyx_v_self->segments == Py_None)) {
     PyErr_Format(PyExc_AttributeError, "'NoneType' object has no attribute '%s'", "append");
@@ -5092,18 +5092,18 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_corner(struct __pyx_ob
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):
  *         self.segments.append(CornerSegment((c.x, c.y), (end_point.x,
  *             end_point.y)))             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __pyx_t_1 = PyFloat_FromDouble(__pyx_v_end_point->y); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 311; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_1);
 
   /* "potrace/_potrace.pyx":310
- * 
+ *
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):
  *         self.segments.append(CornerSegment((c.x, c.y), (end_point.x,             # <<<<<<<<<<<<<<
  *             end_point.y)))
- * 
+ *
  */
   __pyx_t_4 = PyTuple_New(2); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 310; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_4);
@@ -5129,7 +5129,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_corner(struct __pyx_ob
 
   /* "potrace/_potrace.pyx":309
  *             (end_point.x, end_point.y)))
- * 
+ *
  *     cdef append_corner(self, potrace_dpoint_s *c, potrace_dpoint_s *end_point):             # <<<<<<<<<<<<<<
  *         self.segments.append(CornerSegment((c.x, c.y), (end_point.x,
  *             end_point.y)))
@@ -5153,10 +5153,10 @@ static PyObject *__pyx_f_7potrace_8_potrace_5Curve_append_corner(struct __pyx_ob
 
 /* "potrace/_potrace.pyx":240
  *     """
- * 
+ *
  *     cdef public list segments             # <<<<<<<<<<<<<<
  *     cdef public list children
- * 
+ *
  */
 
 /* Python wrapper */
@@ -5260,10 +5260,10 @@ static int __pyx_pf_7potrace_8_potrace_5Curve_8segments_4__del__(struct __pyx_ob
 }
 
 /* "potrace/_potrace.pyx":241
- * 
+ *
  *     cdef public list segments
  *     cdef public list children             # <<<<<<<<<<<<<<
- * 
+ *
  *     # Bezier tesselation methods constants
  */
 
@@ -5369,7 +5369,7 @@ static int __pyx_pf_7potrace_8_potrace_5Curve_8children_4__del__(struct __pyx_ob
 
 /* "potrace/_potrace.pyx":322
  *     cdef public list curves_tree
- * 
+ *
  *     def __init__(self):             # <<<<<<<<<<<<<<
  *         self.curves = []
  *         self.curves_tree = []
@@ -5401,11 +5401,11 @@ static int __pyx_pf_7potrace_8_potrace_4Path___init__(struct __pyx_obj_7potrace_
   __Pyx_RefNannySetupContext("__init__", 0);
 
   /* "potrace/_potrace.pyx":323
- * 
+ *
  *     def __init__(self):
  *         self.curves = []             # <<<<<<<<<<<<<<
  *         self.curves_tree = []
- * 
+ *
  */
   __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 323; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_1);
@@ -5419,7 +5419,7 @@ static int __pyx_pf_7potrace_8_potrace_4Path___init__(struct __pyx_obj_7potrace_
  *     def __init__(self):
  *         self.curves = []
  *         self.curves_tree = []             # <<<<<<<<<<<<<<
- * 
+ *
  *     cdef append_curve(self, potrace_curve_s *curve):
  */
   __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 324; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -5432,7 +5432,7 @@ static int __pyx_pf_7potrace_8_potrace_4Path___init__(struct __pyx_obj_7potrace_
 
   /* "potrace/_potrace.pyx":322
  *     cdef public list curves_tree
- * 
+ *
  *     def __init__(self):             # <<<<<<<<<<<<<<
  *         self.curves = []
  *         self.curves_tree = []
@@ -5452,7 +5452,7 @@ static int __pyx_pf_7potrace_8_potrace_4Path___init__(struct __pyx_obj_7potrace_
 
 /* "potrace/_potrace.pyx":326
  *         self.curves_tree = []
- * 
+ *
  *     cdef append_curve(self, potrace_curve_s *curve):             # <<<<<<<<<<<<<<
  *         cdef potrace_dpoint_s *c1, *c2, *end_point
  *         cdef Curve new_curve = Curve()
@@ -5594,7 +5594,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_4Path_append_curve(struct __pyx_obj_
  *                 new_curve.append_corner(c2, end_point)
  *         self.curves.append(new_curve)             # <<<<<<<<<<<<<<
  *         return new_curve
- * 
+ *
  */
   if (unlikely(__pyx_v_self->curves == Py_None)) {
     PyErr_Format(PyExc_AttributeError, "'NoneType' object has no attribute '%s'", "append");
@@ -5606,7 +5606,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_4Path_append_curve(struct __pyx_obj_
  *                 new_curve.append_corner(c2, end_point)
  *         self.curves.append(new_curve)
  *         return new_curve             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __iter__(self):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -5616,7 +5616,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_4Path_append_curve(struct __pyx_obj_
 
   /* "potrace/_potrace.pyx":326
  *         self.curves_tree = []
- * 
+ *
  *     cdef append_curve(self, potrace_curve_s *curve):             # <<<<<<<<<<<<<<
  *         cdef potrace_dpoint_s *c1, *c2, *end_point
  *         cdef Curve new_curve = Curve()
@@ -5636,10 +5636,10 @@ static PyObject *__pyx_f_7potrace_8_potrace_4Path_append_curve(struct __pyx_obj_
 
 /* "potrace/_potrace.pyx":340
  *         return new_curve
- * 
+ *
  *     def __iter__(self):             # <<<<<<<<<<<<<<
  *         return iter(self.curves)
- * 
+ *
  */
 
 /* Python wrapper */
@@ -5666,11 +5666,11 @@ static PyObject *__pyx_pf_7potrace_8_potrace_4Path_2__iter__(struct __pyx_obj_7p
   __Pyx_RefNannySetupContext("__iter__", 0);
 
   /* "potrace/_potrace.pyx":341
- * 
+ *
  *     def __iter__(self):
  *         return iter(self.curves)             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __Pyx_XDECREF(__pyx_r);
   __pyx_t_1 = __pyx_v_self->curves;
@@ -5684,10 +5684,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_4Path_2__iter__(struct __pyx_obj_7p
 
   /* "potrace/_potrace.pyx":340
  *         return new_curve
- * 
+ *
  *     def __iter__(self):             # <<<<<<<<<<<<<<
  *         return iter(self.curves)
- * 
+ *
  */
 
   /* function exit code */
@@ -5704,10 +5704,10 @@ static PyObject *__pyx_pf_7potrace_8_potrace_4Path_2__iter__(struct __pyx_obj_7p
 
 /* "potrace/_potrace.pyx":319
  *     """
- * 
+ *
  *     cdef public list curves             # <<<<<<<<<<<<<<
  *     cdef public list curves_tree
- * 
+ *
  */
 
 /* Python wrapper */
@@ -5811,10 +5811,10 @@ static int __pyx_pf_7potrace_8_potrace_4Path_6curves_4__del__(struct __pyx_obj_7
 }
 
 /* "potrace/_potrace.pyx":320
- * 
+ *
  *     cdef public list curves
  *     cdef public list curves_tree             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __init__(self):
  */
 
@@ -5919,8 +5919,8 @@ static int __pyx_pf_7potrace_8_potrace_4Path_11curves_tree_4__del__(struct __pyx
 }
 
 /* "potrace/_potrace.pyx":344
- * 
- * 
+ *
+ *
  * def potracelib_version():             # <<<<<<<<<<<<<<
  *     """
  *     Return the potrace library version.
@@ -5953,20 +5953,20 @@ static PyObject *__pyx_pf_7potrace_8_potrace_potracelib_version(CYTHON_UNUSED Py
   /* "potrace/_potrace.pyx":348
  *     Return the potrace library version.
  *     """
- *     return PyString_FromString(potrace_version())             # <<<<<<<<<<<<<<
- * 
- * 
+ *     return PyUnicode_FromString(potrace_version())             # <<<<<<<<<<<<<<
+ *
+ *
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = PyString_FromString(potrace_version()); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 348; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
+  __pyx_t_1 = PyUnicode_FromString(potrace_version()); if (unlikely(!__pyx_t_1)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 348; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_r = __pyx_t_1;
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
   /* "potrace/_potrace.pyx":344
- * 
- * 
+ *
+ *
  * def potracelib_version():             # <<<<<<<<<<<<<<
  *     """
  *     Return the potrace library version.
@@ -5985,7 +5985,7 @@ static PyObject *__pyx_pf_7potrace_8_potrace_potracelib_version(CYTHON_UNUSED Py
 
 /* "potrace/_potrace.pyx":353
  * # Utility functions
- * 
+ *
  * cdef void setpixel(potrace_bitmap_s *bmp, int x, int y, int on):             # <<<<<<<<<<<<<<
  *     """
  *     Set a pixel on or off in a potrace_bitmap_s.
@@ -6046,8 +6046,8 @@ static void __pyx_f_7potrace_8_potrace_setpixel(struct potrace_bitmap_s *__pyx_v
  *         bmp.map[y*bmp.dy + x/N] |=  (1uL << (N - 1 - x % N))
  *     else:
  *         bmp.map[y*bmp.dy + x/N] &= ~(1uL << (N - 1 - x % N))             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   /*else*/ {
     if (unlikely(__pyx_v_7potrace_8_potrace_N == 0)) {
@@ -6069,7 +6069,7 @@ static void __pyx_f_7potrace_8_potrace_setpixel(struct potrace_bitmap_s *__pyx_v
 
   /* "potrace/_potrace.pyx":353
  * # Utility functions
- * 
+ *
  * cdef void setpixel(potrace_bitmap_s *bmp, int x, int y, int on):             # <<<<<<<<<<<<<<
  *     """
  *     Set a pixel on or off in a potrace_bitmap_s.
@@ -6084,8 +6084,8 @@ static void __pyx_f_7potrace_8_potrace_setpixel(struct potrace_bitmap_s *__pyx_v
 }
 
 /* "potrace/_potrace.pyx":363
- * 
- * 
+ *
+ *
  * cdef State state_from_ptr(potrace_state_s *state):             # <<<<<<<<<<<<<<
  *     """
  *     Create a State wrapping a C potrace_state_s pointer.
@@ -6118,7 +6118,7 @@ static struct __pyx_obj_7potrace_8_potrace_State *__pyx_f_7potrace_8_potrace_sta
  *     cdef State ret = State()
  *     ret.po_state = state             # <<<<<<<<<<<<<<
  *     return ret
- * 
+ *
  */
   __pyx_v_ret->po_state = __pyx_v_state;
 
@@ -6126,8 +6126,8 @@ static struct __pyx_obj_7potrace_8_potrace_State *__pyx_f_7potrace_8_potrace_sta
  *     cdef State ret = State()
  *     ret.po_state = state
  *     return ret             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __Pyx_XDECREF(((PyObject *)__pyx_r));
   __Pyx_INCREF(((PyObject *)__pyx_v_ret));
@@ -6135,8 +6135,8 @@ static struct __pyx_obj_7potrace_8_potrace_State *__pyx_f_7potrace_8_potrace_sta
   goto __pyx_L0;
 
   /* "potrace/_potrace.pyx":363
- * 
- * 
+ *
+ *
  * cdef State state_from_ptr(potrace_state_s *state):             # <<<<<<<<<<<<<<
  *     """
  *     Create a State wrapping a C potrace_state_s pointer.
@@ -6155,8 +6155,8 @@ static struct __pyx_obj_7potrace_8_potrace_State *__pyx_f_7potrace_8_potrace_sta
 }
 
 /* "potrace/_potrace.pyx":372
- * 
- * 
+ *
+ *
  * cdef Path path_from_ptr(potrace_path_s *plist):             # <<<<<<<<<<<<<<
  *     """
  *     Create a Path instance containing a copy of the paths defined in *plist*.
@@ -6252,7 +6252,7 @@ static struct __pyx_obj_7potrace_8_potrace_Path *__pyx_f_7potrace_8_potrace_path
  *     # Store tree structure
  *     init_curves_tree(path.curves_tree, curves_map, plist)             # <<<<<<<<<<<<<<
  *     return path
- * 
+ *
  */
   __pyx_t_1 = __pyx_v_path->curves_tree;
   __Pyx_INCREF(__pyx_t_1);
@@ -6265,8 +6265,8 @@ static struct __pyx_obj_7potrace_8_potrace_Path *__pyx_f_7potrace_8_potrace_path
  *     # Store tree structure
  *     init_curves_tree(path.curves_tree, curves_map, plist)
  *     return path             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __Pyx_XDECREF(((PyObject *)__pyx_r));
   __Pyx_INCREF(((PyObject *)__pyx_v_path));
@@ -6274,8 +6274,8 @@ static struct __pyx_obj_7potrace_8_potrace_Path *__pyx_f_7potrace_8_potrace_path
   goto __pyx_L0;
 
   /* "potrace/_potrace.pyx":372
- * 
- * 
+ *
+ *
  * cdef Path path_from_ptr(potrace_path_s *plist):             # <<<<<<<<<<<<<<
  *     """
  *     Create a Path instance containing a copy of the paths defined in *plist*.
@@ -6296,8 +6296,8 @@ static struct __pyx_obj_7potrace_8_potrace_Path *__pyx_f_7potrace_8_potrace_path
 }
 
 /* "potrace/_potrace.pyx":388
- * 
- * 
+ *
+ *
  * cdef init_curves_tree(list child_list, dict curves_map, potrace_path_s *plist):             # <<<<<<<<<<<<<<
  *     """
  *     Init a curves tree structure.
@@ -6405,7 +6405,7 @@ static PyObject *__pyx_f_7potrace_8_potrace_init_curves_tree(PyObject *__pyx_v_c
  *         child_list.append(cur_curve)
  *         init_curves_tree(cur_curve.children, curves_map, cur_path.childlist)             # <<<<<<<<<<<<<<
  *         cur_path = cur_path.sibling
- * 
+ *
  */
     __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_cur_curve, __pyx_n_s_children); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 398; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
     __Pyx_GOTREF(__pyx_t_3);
@@ -6419,16 +6419,16 @@ static PyObject *__pyx_f_7potrace_8_potrace_init_curves_tree(PyObject *__pyx_v_c
  *         child_list.append(cur_curve)
  *         init_curves_tree(cur_curve.children, curves_map, cur_path.childlist)
  *         cur_path = cur_path.sibling             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
     __pyx_t_5 = __pyx_v_cur_path->sibling;
     __pyx_v_cur_path = __pyx_t_5;
   }
 
   /* "potrace/_potrace.pyx":388
- * 
- * 
+ *
+ *
  * cdef init_curves_tree(list child_list, dict curves_map, potrace_path_s *plist):             # <<<<<<<<<<<<<<
  *     """
  *     Init a curves tree structure.
@@ -6501,9 +6501,9 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":203
  *             # of flags
- * 
+ *
  *             if info == NULL: return             # <<<<<<<<<<<<<<
- * 
+ *
  *             cdef int copy_shape, i, ndim
  */
   __pyx_t_1 = ((__pyx_v_info == NULL) != 0);
@@ -6513,11 +6513,11 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":206
- * 
+ *
  *             cdef int copy_shape, i, ndim
  *             cdef int endian_detector = 1             # <<<<<<<<<<<<<<
  *             cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)
- * 
+ *
  */
   __pyx_v_endian_detector = 1;
 
@@ -6525,23 +6525,23 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             cdef int copy_shape, i, ndim
  *             cdef int endian_detector = 1
  *             cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)             # <<<<<<<<<<<<<<
- * 
+ *
  *             ndim = PyArray_NDIM(self)
  */
   __pyx_v_little_endian = ((((char *)(&__pyx_v_endian_detector))[0]) != 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":209
  *             cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)
- * 
+ *
  *             ndim = PyArray_NDIM(self)             # <<<<<<<<<<<<<<
- * 
+ *
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):
  */
   __pyx_v_ndim = PyArray_NDIM(__pyx_v_self);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":211
  *             ndim = PyArray_NDIM(self)
- * 
+ *
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
  *                 copy_shape = 1
  *             else:
@@ -6550,7 +6550,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   if (__pyx_t_1) {
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":212
- * 
+ *
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):
  *                 copy_shape = 1             # <<<<<<<<<<<<<<
  *             else:
@@ -6560,7 +6560,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":211
  *             ndim = PyArray_NDIM(self)
- * 
+ *
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
  *                 copy_shape = 1
  *             else:
@@ -6572,7 +6572,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *                 copy_shape = 1
  *             else:
  *                 copy_shape = 0             # <<<<<<<<<<<<<<
- * 
+ *
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  */
   /*else*/ {
@@ -6582,7 +6582,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":216
  *                 copy_shape = 0
- * 
+ *
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")
@@ -6595,11 +6595,11 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":217
- * 
+ *
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):             # <<<<<<<<<<<<<<
  *                 raise ValueError(u"ndarray is not C contiguous")
- * 
+ *
  */
   __pyx_t_2 = ((!(PyArray_CHKFLAGS(__pyx_v_self, NPY_C_CONTIGUOUS) != 0)) != 0);
   __pyx_t_1 = __pyx_t_2;
@@ -6607,7 +6607,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":216
  *                 copy_shape = 0
- * 
+ *
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")
@@ -6618,7 +6618,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")             # <<<<<<<<<<<<<<
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  */
     __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_ValueError, __pyx_tuple__23, NULL); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 218; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -6629,7 +6629,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":216
  *                 copy_shape = 0
- * 
+ *
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")
@@ -6638,7 +6638,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":220
  *                 raise ValueError(u"ndarray is not C contiguous")
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
@@ -6651,11 +6651,11 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":221
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):             # <<<<<<<<<<<<<<
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
- * 
+ *
  */
   __pyx_t_2 = ((!(PyArray_CHKFLAGS(__pyx_v_self, NPY_F_CONTIGUOUS) != 0)) != 0);
   __pyx_t_1 = __pyx_t_2;
@@ -6663,7 +6663,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":220
  *                 raise ValueError(u"ndarray is not C contiguous")
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
@@ -6674,7 +6674,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")             # <<<<<<<<<<<<<<
- * 
+ *
  *             info.buf = PyArray_DATA(self)
  */
     __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_ValueError, __pyx_tuple__24, NULL); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 222; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -6685,7 +6685,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":220
  *                 raise ValueError(u"ndarray is not C contiguous")
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
@@ -6694,7 +6694,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":224
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
- * 
+ *
  *             info.buf = PyArray_DATA(self)             # <<<<<<<<<<<<<<
  *             info.ndim = ndim
  *             if copy_shape:
@@ -6702,7 +6702,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_v_info->buf = PyArray_DATA(__pyx_v_self);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":225
- * 
+ *
  *             info.buf = PyArray_DATA(self)
  *             info.ndim = ndim             # <<<<<<<<<<<<<<
  *             if copy_shape:
@@ -6813,7 +6813,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             info.suboffsets = NULL
  *             info.itemsize = PyArray_ITEMSIZE(self)             # <<<<<<<<<<<<<<
  *             info.readonly = not PyArray_ISWRITEABLE(self)
- * 
+ *
  */
   __pyx_v_info->itemsize = PyArray_ITEMSIZE(__pyx_v_self);
 
@@ -6821,13 +6821,13 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             info.suboffsets = NULL
  *             info.itemsize = PyArray_ITEMSIZE(self)
  *             info.readonly = not PyArray_ISWRITEABLE(self)             # <<<<<<<<<<<<<<
- * 
+ *
  *             cdef int t
  */
   __pyx_v_info->readonly = (!(PyArray_ISWRITEABLE(__pyx_v_self) != 0));
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":242
- * 
+ *
  *             cdef int t
  *             cdef char* f = NULL             # <<<<<<<<<<<<<<
  *             cdef dtype descr = self.descr
@@ -6840,7 +6840,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             cdef char* f = NULL
  *             cdef dtype descr = self.descr             # <<<<<<<<<<<<<<
  *             cdef int offset
- * 
+ *
  */
   __pyx_t_3 = ((PyObject *)__pyx_v_self->descr);
   __Pyx_INCREF(__pyx_t_3);
@@ -6849,16 +6849,16 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":246
  *             cdef int offset
- * 
+ *
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)             # <<<<<<<<<<<<<<
- * 
+ *
  *             if not hasfields and not copy_shape:
  */
   __pyx_v_hasfields = PyDataType_HASFIELDS(__pyx_v_descr);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":248
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)
- * 
+ *
  *             if not hasfields and not copy_shape:             # <<<<<<<<<<<<<<
  *                 # do not call releasebuffer
  *                 info.obj = None
@@ -6889,7 +6889,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":248
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)
- * 
+ *
  *             if not hasfields and not copy_shape:             # <<<<<<<<<<<<<<
  *                 # do not call releasebuffer
  *                 info.obj = None
@@ -6901,7 +6901,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *             else:
  *                 # need to call releasebuffer
  *                 info.obj = self             # <<<<<<<<<<<<<<
- * 
+ *
  *             if not hasfields:
  */
   /*else*/ {
@@ -6915,7 +6915,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":255
  *                 info.obj = self
- * 
+ *
  *             if not hasfields:             # <<<<<<<<<<<<<<
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or
@@ -6924,7 +6924,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   if (__pyx_t_1) {
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":256
- * 
+ *
  *             if not hasfields:
  *                 t = descr.type_num             # <<<<<<<<<<<<<<
  *                 if ((descr.byteorder == c'>' and little_endian) or
@@ -7237,7 +7237,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":255
  *                 info.obj = self
- * 
+ *
  *             if not hasfields:             # <<<<<<<<<<<<<<
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or
@@ -7286,7 +7286,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  *                                       info.format + _buffer_format_string_len,
  *                                       &offset)
  *                 f[0] = c'\0' # Terminate format string             # <<<<<<<<<<<<<<
- * 
+ *
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  */
     (__pyx_v_f[0]) = '\x00';
@@ -7326,7 +7326,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":290
  *                 f[0] = c'\0' # Terminate format string
- * 
+ *
  *         def __releasebuffer__(ndarray self, Py_buffer* info):             # <<<<<<<<<<<<<<
  *             if PyArray_HASFIELDS(self):
  *                 stdlib.free(info.format)
@@ -7349,7 +7349,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
   __Pyx_RefNannySetupContext("__releasebuffer__", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":291
- * 
+ *
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  *             if PyArray_HASFIELDS(self):             # <<<<<<<<<<<<<<
  *                 stdlib.free(info.format)
@@ -7368,7 +7368,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
     free(__pyx_v_info->format);
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":291
- * 
+ *
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  *             if PyArray_HASFIELDS(self):             # <<<<<<<<<<<<<<
  *                 stdlib.free(info.format)
@@ -7391,7 +7391,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):
  *                 stdlib.free(info.strides)             # <<<<<<<<<<<<<<
  *                 # info.shape was stored after info.strides in the same block
- * 
+ *
  */
     free(__pyx_v_info->strides);
 
@@ -7406,7 +7406,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":290
  *                 f[0] = c'\0' # Terminate format string
- * 
+ *
  *         def __releasebuffer__(ndarray self, Py_buffer* info):             # <<<<<<<<<<<<<<
  *             if PyArray_HASFIELDS(self):
  *                 stdlib.free(info.format)
@@ -7418,10 +7418,10 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":770
  * ctypedef npy_cdouble     complex_t
- * 
+ *
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(1, <void*>a)
- * 
+ *
  */
 
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__pyx_v_a) {
@@ -7434,10 +7434,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew1", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":771
- * 
+ *
  * cdef inline object PyArray_MultiIterNew1(a):
  *     return PyArray_MultiIterNew(1, <void*>a)             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object PyArray_MultiIterNew2(a, b):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -7449,10 +7449,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":770
  * ctypedef npy_cdouble     complex_t
- * 
+ *
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(1, <void*>a)
- * 
+ *
  */
 
   /* function exit code */
@@ -7468,10 +7468,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":773
  *     return PyArray_MultiIterNew(1, <void*>a)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
- * 
+ *
  */
 
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__pyx_v_a, PyObject *__pyx_v_b) {
@@ -7484,10 +7484,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew2", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":774
- * 
+ *
  * cdef inline object PyArray_MultiIterNew2(a, b):
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object PyArray_MultiIterNew3(a, b, c):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -7499,10 +7499,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":773
  *     return PyArray_MultiIterNew(1, <void*>a)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
- * 
+ *
  */
 
   /* function exit code */
@@ -7518,10 +7518,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":776
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
- * 
+ *
  */
 
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c) {
@@ -7534,10 +7534,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew3", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":777
- * 
+ *
  * cdef inline object PyArray_MultiIterNew3(a, b, c):
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -7549,10 +7549,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":776
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
- * 
+ *
  */
 
   /* function exit code */
@@ -7568,10 +7568,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":779
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
- * 
+ *
  */
 
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d) {
@@ -7584,10 +7584,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew4", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":780
- * 
+ *
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):
  */
   __Pyx_XDECREF(__pyx_r);
@@ -7599,10 +7599,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":779
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
- * 
+ *
  */
 
   /* function exit code */
@@ -7618,10 +7618,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":782
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
- * 
+ *
  */
 
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d, PyObject *__pyx_v_e) {
@@ -7634,10 +7634,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew5", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":783
- * 
+ *
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline char* _util_dtypestring(dtype descr, char* f, char* end, int* offset) except NULL:
  */
   __Pyx_XDECREF(__pyx_r);
@@ -7649,10 +7649,10 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":782
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
- * 
+ *
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
- * 
+ *
  */
 
   /* function exit code */
@@ -7668,7 +7668,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":785
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
- * 
+ *
  * cdef inline char* _util_dtypestring(dtype descr, char* f, char* end, int* offset) except NULL:             # <<<<<<<<<<<<<<
  *     # Recursive utility function used in __getbuffer__ to get format
  *     # string. The new location in the format string is returned.
@@ -7699,7 +7699,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
   __Pyx_RefNannySetupContext("_util_dtypestring", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":790
- * 
+ *
  *     cdef dtype child
  *     cdef int endian_detector = 1             # <<<<<<<<<<<<<<
  *     cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)
@@ -7712,13 +7712,13 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *     cdef int endian_detector = 1
  *     cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)             # <<<<<<<<<<<<<<
  *     cdef tuple fields
- * 
+ *
  */
   __pyx_v_little_endian = ((((char *)(&__pyx_v_endian_detector))[0]) != 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
  *     cdef tuple fields
- * 
+ *
  *     for childname in descr.names:             # <<<<<<<<<<<<<<
  *         fields = descr.fields[childname]
  *         child, new_offset = fields
@@ -7740,11 +7740,11 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_t_3 = 0;
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":795
- * 
+ *
  *     for childname in descr.names:
  *         fields = descr.fields[childname]             # <<<<<<<<<<<<<<
  *         child, new_offset = fields
- * 
+ *
  */
     if (unlikely(__pyx_v_descr->fields == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
@@ -7760,7 +7760,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *     for childname in descr.names:
  *         fields = descr.fields[childname]
  *         child, new_offset = fields             # <<<<<<<<<<<<<<
- * 
+ *
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:
  */
     if (likely(__pyx_v_fields != Py_None)) {
@@ -7776,8 +7776,8 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         {__pyx_filename = __pyx_f[1]; __pyx_lineno = 796; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
       }
       #if CYTHON_COMPILING_IN_CPYTHON
-      __pyx_t_3 = PyTuple_GET_ITEM(sequence, 0); 
-      __pyx_t_4 = PyTuple_GET_ITEM(sequence, 1); 
+      __pyx_t_3 = PyTuple_GET_ITEM(sequence, 0);
+      __pyx_t_4 = PyTuple_GET_ITEM(sequence, 1);
       __Pyx_INCREF(__pyx_t_3);
       __Pyx_INCREF(__pyx_t_4);
       #else
@@ -7797,10 +7797,10 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":798
  *         child, new_offset = fields
- * 
+ *
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:             # <<<<<<<<<<<<<<
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
- * 
+ *
  */
     __pyx_t_4 = __Pyx_PyInt_From_int((__pyx_v_offset[0])); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 798; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
     __Pyx_GOTREF(__pyx_t_4);
@@ -7813,10 +7813,10 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     if (__pyx_t_6) {
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":799
- * 
+ *
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")             # <<<<<<<<<<<<<<
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or
  */
       __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_RuntimeError, __pyx_tuple__26, NULL); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 799; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -7827,16 +7827,16 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":798
  *         child, new_offset = fields
- * 
+ *
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:             # <<<<<<<<<<<<<<
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
- * 
+ *
  */
     }
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":801
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
  *             (child.byteorder == c'<' and not little_endian)):
  *             raise ValueError(u"Non-native byte order not supported")
@@ -7855,7 +7855,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_L8_next_or:;
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":802
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or
  *             (child.byteorder == c'<' and not little_endian)):             # <<<<<<<<<<<<<<
  *             raise ValueError(u"Non-native byte order not supported")
@@ -7873,7 +7873,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":801
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
  *             (child.byteorder == c'<' and not little_endian)):
  *             raise ValueError(u"Non-native byte order not supported")
@@ -7895,7 +7895,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":801
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
  *             (child.byteorder == c'<' and not little_endian)):
  *             raise ValueError(u"Non-native byte order not supported")
@@ -7903,7 +7903,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     }
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":813
- * 
+ *
  *         # Output padding bytes
  *         while offset[0] < new_offset:             # <<<<<<<<<<<<<<
  *             f[0] = 120 # "x"; pad byte
@@ -7932,7 +7932,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             f[0] = 120 # "x"; pad byte
  *             f += 1             # <<<<<<<<<<<<<<
  *             offset[0] += 1
- * 
+ *
  */
       __pyx_v_f = (__pyx_v_f + 1);
 
@@ -7940,7 +7940,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             f[0] = 120 # "x"; pad byte
  *             f += 1
  *             offset[0] += 1             # <<<<<<<<<<<<<<
- * 
+ *
  *         offset[0] += child.itemsize
  */
       __pyx_t_8 = 0;
@@ -7949,9 +7949,9 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":818
  *             offset[0] += 1
- * 
+ *
  *         offset[0] += child.itemsize             # <<<<<<<<<<<<<<
- * 
+ *
  *         if not PyDataType_HASFIELDS(child):
  */
     __pyx_t_8 = 0;
@@ -7959,7 +7959,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":820
  *         offset[0] += child.itemsize
- * 
+ *
  *         if not PyDataType_HASFIELDS(child):             # <<<<<<<<<<<<<<
  *             t = child.type_num
  *             if end - f < 5:
@@ -7968,7 +7968,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     if (__pyx_t_6) {
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":821
- * 
+ *
  *         if not PyDataType_HASFIELDS(child):
  *             t = child.type_num             # <<<<<<<<<<<<<<
  *             if end - f < 5:
@@ -7984,7 +7984,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             t = child.type_num
  *             if end - f < 5:             # <<<<<<<<<<<<<<
  *                 raise RuntimeError(u"Format string allocated too short.")
- * 
+ *
  */
       __pyx_t_6 = (((__pyx_v_end - __pyx_v_f) < 5) != 0);
       if (__pyx_t_6) {
@@ -7993,7 +7993,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             t = child.type_num
  *             if end - f < 5:
  *                 raise RuntimeError(u"Format string allocated too short.")             # <<<<<<<<<<<<<<
- * 
+ *
  *             # Until ticket #99 is fixed, use integers to avoid warnings
  */
         __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_RuntimeError, __pyx_tuple__28, NULL); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 823; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -8007,12 +8007,12 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             t = child.type_num
  *             if end - f < 5:             # <<<<<<<<<<<<<<
  *                 raise RuntimeError(u"Format string allocated too short.")
- * 
+ *
  */
       }
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":826
- * 
+ *
  *             # Until ticket #99 is fixed, use integers to avoid warnings
  *             if   t == NPY_BYTE:        f[0] =  98 #"b"             # <<<<<<<<<<<<<<
  *             elif t == NPY_UBYTE:       f[0] =  66 #"B"
@@ -8358,7 +8358,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
       /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":820
  *         offset[0] += child.itemsize
- * 
+ *
  *         if not PyDataType_HASFIELDS(child):             # <<<<<<<<<<<<<<
  *             t = child.type_num
  *             if end - f < 5:
@@ -8371,7 +8371,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             # so don't output it
  *             f = _util_dtypestring(child, f, end, offset)             # <<<<<<<<<<<<<<
  *     return f
- * 
+ *
  */
     /*else*/ {
       __pyx_t_9 = __pyx_f_5numpy__util_dtypestring(__pyx_v_child, __pyx_v_f, __pyx_v_end, __pyx_v_offset); if (unlikely(__pyx_t_9 == NULL)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 849; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -8381,7 +8381,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
  *     cdef tuple fields
- * 
+ *
  *     for childname in descr.names:             # <<<<<<<<<<<<<<
  *         fields = descr.fields[childname]
  *         child, new_offset = fields
@@ -8393,15 +8393,15 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  *             # so don't output it
  *             f = _util_dtypestring(child, f, end, offset)
  *     return f             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __pyx_r = __pyx_v_f;
   goto __pyx_L0;
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":785
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
- * 
+ *
  * cdef inline char* _util_dtypestring(dtype descr, char* f, char* end, int* offset) except NULL:             # <<<<<<<<<<<<<<
  *     # Recursive utility function used in __getbuffer__ to get format
  *     # string. The new location in the format string is returned.
@@ -8425,8 +8425,8 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
 }
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":966
- * 
- * 
+ *
+ *
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
  *      cdef PyObject* baseptr
  *      if base is None:
@@ -8495,7 +8495,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  *          baseptr = <PyObject*>base
  *      Py_XDECREF(arr.base)             # <<<<<<<<<<<<<<
  *      arr.base = baseptr
- * 
+ *
  */
   Py_XDECREF(__pyx_v_arr->base);
 
@@ -8503,14 +8503,14 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  *          baseptr = <PyObject*>base
  *      Py_XDECREF(arr.base)
  *      arr.base = baseptr             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):
  */
   __pyx_v_arr->base = __pyx_v_baseptr;
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":966
- * 
- * 
+ *
+ *
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
  *      cdef PyObject* baseptr
  *      if base is None:
@@ -8522,7 +8522,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
 
 /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":976
  *      arr.base = baseptr
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
  *     if arr.base is NULL:
  *         return None
@@ -8535,7 +8535,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   __Pyx_RefNannySetupContext("get_array_base", 0);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":977
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):
  *     if arr.base is NULL:             # <<<<<<<<<<<<<<
  *         return None
@@ -8557,7 +8557,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
     goto __pyx_L0;
 
     /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":977
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):
  *     if arr.base is NULL:             # <<<<<<<<<<<<<<
  *         return None
@@ -8579,7 +8579,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":976
  *      arr.base = baseptr
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
  *     if arr.base is NULL:
  *         return None
@@ -9685,7 +9685,7 @@ static int __Pyx_InitCachedConstants(void) {
  *         if not ret.ok:
  *             raise PotraceError("error tracing bitmap")             # <<<<<<<<<<<<<<
  *         return ret.image
- * 
+ *
  */
   __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_s_error_tracing_bitmap); if (unlikely(!__pyx_tuple__2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 107; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_tuple__2);
@@ -9696,7 +9696,7 @@ static int __Pyx_InitCachedConstants(void) {
  *             if self.po_state == NULL:
  *                 raise ValueError("can't query null state object")             # <<<<<<<<<<<<<<
  *             return self.po_state.status == POTRACE_STATUS_OK
- * 
+ *
  */
   __pyx_tuple__4 = PyTuple_Pack(1, __pyx_kp_s_can_t_query_null_state_object); if (unlikely(!__pyx_tuple__4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 181; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_tuple__4);
@@ -9829,7 +9829,7 @@ static int __Pyx_InitCachedConstants(void) {
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")             # <<<<<<<<<<<<<<
- * 
+ *
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  */
   __pyx_tuple__23 = PyTuple_Pack(1, __pyx_kp_u_ndarray_is_not_C_contiguous); if (unlikely(!__pyx_tuple__23)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 218; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -9840,7 +9840,7 @@ static int __Pyx_InitCachedConstants(void) {
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")             # <<<<<<<<<<<<<<
- * 
+ *
  *             info.buf = PyArray_DATA(self)
  */
   __pyx_tuple__24 = PyTuple_Pack(1, __pyx_kp_u_ndarray_is_not_Fortran_contiguou); if (unlikely(!__pyx_tuple__24)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 222; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -9859,10 +9859,10 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GIVEREF(__pyx_tuple__25);
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":799
- * 
+ *
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")             # <<<<<<<<<<<<<<
- * 
+ *
  *         if ((child.byteorder == c'>' and little_endian) or
  */
   __pyx_tuple__26 = PyTuple_Pack(1, __pyx_kp_u_Format_string_allocated_too_shor); if (unlikely(!__pyx_tuple__26)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 799; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -9884,7 +9884,7 @@ static int __Pyx_InitCachedConstants(void) {
  *             t = child.type_num
  *             if end - f < 5:
  *                 raise RuntimeError(u"Format string allocated too short.")             # <<<<<<<<<<<<<<
- * 
+ *
  *             # Until ticket #99 is fixed, use integers to avoid warnings
  */
   __pyx_tuple__28 = PyTuple_Pack(1, __pyx_kp_u_Format_string_allocated_too_shor_2); if (unlikely(!__pyx_tuple__28)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 823; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -9892,8 +9892,8 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GIVEREF(__pyx_tuple__28);
 
   /* "potrace/_potrace.pyx":344
- * 
- * 
+ *
+ *
  * def potracelib_version():             # <<<<<<<<<<<<<<
  *     """
  *     Return the potrace library version.
@@ -10050,7 +10050,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
   if (PyObject_SetAttrString(__pyx_m, "Path", (PyObject *)&__pyx_type_7potrace_8_potrace_Path) < 0) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 314; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __pyx_ptype_7potrace_8_potrace_Path = &__pyx_type_7potrace_8_potrace_Path;
   /*--- Type import code ---*/
-  __pyx_ptype_7cpython_4type_type = __Pyx_ImportType(__Pyx_BUILTIN_MODULE_NAME, "type", 
+  __pyx_ptype_7cpython_4type_type = __Pyx_ImportType(__Pyx_BUILTIN_MODULE_NAME, "type",
   #if CYTHON_COMPILING_IN_PYPY
   sizeof(PyTypeObject),
   #else
@@ -10075,9 +10075,9 @@ PyMODINIT_FUNC PyInit__potrace(void)
 
   /* "potrace/_potrace.pyx":6
  * from potrace.bezier cimport adaptive_bezier, bezier
- * 
+ *
  * import numpy as np             # <<<<<<<<<<<<<<
- * 
+ *
  * cdef extern from "stdbool.h":
  */
   __pyx_t_2 = __Pyx_Import(__pyx_n_s_numpy, 0, -1); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 6; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -10086,16 +10086,16 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
   /* "potrace/_potrace.pyx":12
- * 
+ *
  * # Number of pixels in a word
  * cdef int N = sizeof(potrace_word) * 8             # <<<<<<<<<<<<<<
- * 
+ *
  * # Constants
  */
   __pyx_v_7potrace_8_potrace_N = ((sizeof(potrace_word)) * 8);
 
   /* "potrace/_potrace.pyx":15
- * 
+ *
  * # Constants
  * TURNPOLICY_BLACK = POTRACE_TURNPOLICY_BLACK             # <<<<<<<<<<<<<<
  * TURNPOLICY_WHITE = POTRACE_TURNPOLICY_WHITE
@@ -10159,7 +10159,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
  * TURNPOLICY_MINORITY = POTRACE_TURNPOLICY_MINORITY
  * TURNPOLICY_MAJORITY = POTRACE_TURNPOLICY_MAJORITY             # <<<<<<<<<<<<<<
  * TURNPOLICY_RANDOM = POTRACE_TURNPOLICY_RANDOM
- * 
+ *
  */
   __pyx_t_2 = __Pyx_PyInt_From_int(POTRACE_TURNPOLICY_MAJORITY); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 20; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -10170,8 +10170,8 @@ PyMODINIT_FUNC PyInit__potrace(void)
  * TURNPOLICY_MINORITY = POTRACE_TURNPOLICY_MINORITY
  * TURNPOLICY_MAJORITY = POTRACE_TURNPOLICY_MAJORITY
  * TURNPOLICY_RANDOM = POTRACE_TURNPOLICY_RANDOM             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __pyx_t_2 = __Pyx_PyInt_From_int(POTRACE_TURNPOLICY_RANDOM); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 21; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -10179,11 +10179,11 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
   /* "potrace/_potrace.pyx":24
- * 
- * 
+ *
+ *
  * class PotraceError(Exception): pass             # <<<<<<<<<<<<<<
- * 
- * 
+ *
+ *
  */
   __pyx_t_2 = PyTuple_New(1); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 24; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -10204,7 +10204,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
 
   /* "potrace/_potrace.pyx":47
  *         self.free_bitmap()
- * 
+ *
  *     def trace(self, turdsize=2, turnpolicy=POTRACE_TURNPOLICY_MINORITY,             # <<<<<<<<<<<<<<
  *             alphamax=1.0, opticurve=1, opttolerance=0.2):
  *         """
@@ -10216,7 +10216,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __pyx_t_2 = 0;
 
   /* "potrace/_potrace.pyx":144
- * 
+ *
  *     def __cinit__(self, int turdsize=2,
  *             int turnpolicy=POTRACE_TURNPOLICY_MINORITY, double alphamax=1.0,             # <<<<<<<<<<<<<<
  *             int opticurve=1, double opttolerance=0.2, *args, **kwargs):
@@ -10225,11 +10225,11 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __pyx_k__3 = POTRACE_TURNPOLICY_MINORITY;
 
   /* "potrace/_potrace.pyx":244
- * 
+ *
  *     # Bezier tesselation methods constants
  *     regular = 0             # <<<<<<<<<<<<<<
  *     adaptive = 1
- * 
+ *
  */
   if (PyDict_SetItem((PyObject *)__pyx_ptype_7potrace_8_potrace_Curve->tp_dict, __pyx_n_s_regular, __pyx_int_0) < 0) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 244; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   PyType_Modified(__pyx_ptype_7potrace_8_potrace_Curve);
@@ -10238,7 +10238,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
  *     # Bezier tesselation methods constants
  *     regular = 0
  *     adaptive = 1             # <<<<<<<<<<<<<<
- * 
+ *
  *     def __init__(self):
  */
   if (PyDict_SetItem((PyObject *)__pyx_ptype_7potrace_8_potrace_Curve->tp_dict, __pyx_n_s_adaptive, __pyx_int_1) < 0) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 245; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
@@ -10246,7 +10246,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
 
   /* "potrace/_potrace.pyx":258
  *             return self.segments[-1].end_point
- * 
+ *
  *     def tesselate(self, method=adaptive, res=30):             # <<<<<<<<<<<<<<
  *         """
  *         Tesselate the curve.
@@ -10258,8 +10258,8 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __pyx_t_2 = 0;
 
   /* "potrace/_potrace.pyx":344
- * 
- * 
+ *
+ *
  * def potracelib_version():             # <<<<<<<<<<<<<<
  *     """
  *     Return the potrace library version.
@@ -10270,8 +10270,8 @@ PyMODINIT_FUNC PyInit__potrace(void)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
   /* "potrace/_potrace.pyx":402
- * 
- * 
+ *
+ *
  * __all__ = ["TURNPOLICY_BLACK", "TURNPOLICY_WHITE", "TURNPOLICY_LEFT",             # <<<<<<<<<<<<<<
  *     "TURNPOLICY_RIGHT", "TURNPOLICY_MINORITY", "TURNPOLICY_MAJORITY",
  *     "TURNPOLICY_RANDOM", "Bitmap", "Path", "Curve", "BezierSegment",
@@ -10323,7 +10323,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
   /* "potrace/_potrace.pyx":1
  * cimport numpy as np             # <<<<<<<<<<<<<<
  * cimport stdlib
- * from python_string cimport PyString_FromString
+ * from python_string cimport PyUnicode_FromString
  */
   __pyx_t_2 = PyDict_New(); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 1; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
   __Pyx_GOTREF(__pyx_t_2);
@@ -10332,7 +10332,7 @@ PyMODINIT_FUNC PyInit__potrace(void)
 
   /* "pypotrace/local/lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":976
  *      arr.base = baseptr
- * 
+ *
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
  *     if arr.base is NULL:
  *         return None
@@ -10622,7 +10622,7 @@ static void __Pyx_WriteUnraisable(const char *name, CYTHON_UNUSED int clineno,
         PyErr_PrintEx(1);
     }
     #if PY_MAJOR_VERSION < 3
-    ctx = PyString_FromString(name);
+    ctx = PyUnicode_FromString(name);
     #else
     ctx = PyUnicode_FromString(name);
     #endif
@@ -11532,7 +11532,7 @@ static PyCodeObject* __Pyx_CreateCodeObjectForTraceback(
     PyObject *py_srcfile = 0;
     PyObject *py_funcname = 0;
     #if PY_MAJOR_VERSION < 3
-    py_srcfile = PyString_FromString(filename);
+    py_srcfile = PyUnicode_FromString(filename);
     #else
     py_srcfile = PyUnicode_FromString(filename);
     #endif
@@ -11546,7 +11546,7 @@ static PyCodeObject* __Pyx_CreateCodeObjectForTraceback(
     }
     else {
         #if PY_MAJOR_VERSION < 3
-        py_funcname = PyString_FromString(funcname);
+        py_funcname = PyUnicode_FromString(funcname);
         #else
         py_funcname = PyUnicode_FromString(funcname);
         #endif
@@ -12676,7 +12676,7 @@ static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {
         } else if (t->intern) {
             *t->p = PyString_InternFromString(t->s);
         } else {
-            *t->p = PyString_FromStringAndSize(t->s, t->n - 1);
+            *t->p = PyUnicode_FromStringAndSize(t->s, t->n - 1);
         }
         #else
         if (t->is_unicode | t->is_str) {

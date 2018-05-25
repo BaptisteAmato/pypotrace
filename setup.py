@@ -21,7 +21,7 @@ except ImportError:
 
 
 def get_flags(flags, prefix):
-    return [flag[2:] for flag in flags if flag.startswith(prefix)]
+    return [flag[2:].decode() for flag in flags if flag.startswith(prefix.encode())]
 
 
 def create_ext_obj(name, sources, cython=False, pkg_config_libs=None, **kwargs):
@@ -72,7 +72,6 @@ ext_modules = [
         pkg_config_libs=['libagg'], language="c++", include_dirs=include_dirs,
         cython=CYTHONIZE),
 ]
-
 
 setup(
     name = "pypotrace",
